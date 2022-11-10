@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am Devendhar Mandala
+Graduate student at University of Texas at Arlington
+Interested in learning new technologies
 
 <!--
 **DevendharMandala/DevendharMandala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
